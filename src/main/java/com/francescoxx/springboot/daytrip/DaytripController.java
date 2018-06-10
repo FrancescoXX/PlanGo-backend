@@ -3,7 +3,6 @@ package com.francescoxx.springboot.daytrip;
 /*
     Daytrip @RestController
  */
-
 import com.francescoxx.springboot.jwtuser.JwtUser;
 import org.hibernate.MappingException;
 import org.springframework.beans.factory.annotation.Autowired;

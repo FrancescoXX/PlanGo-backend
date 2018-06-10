@@ -7,7 +7,6 @@ import java.util.Collection;
 
 /*
     UserDetails Model
-
  */
 public class JwtUserDetails implements UserDetails {
 
